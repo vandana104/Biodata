@@ -1,0 +1,91 @@
+.outerbox{
+    width: 550px;
+    height: 620px;
+    background-color: darkgray;
+    border: solid 1px;
+    border-color: midnightblue;  
+}
+body{
+    margin: 0px;;
+    margin-left:0px;  
+}
+body{
+    margin-top: 0px;
+    margin-left: 400px;
+}
+.bio{
+    padding-left: 200px;
+}
+.fullname{
+    width: 300px;
+    height: 54px;
+    padding-left: 30px;
+}
+.father{
+    width: 300px;
+    height: 49px;
+    padding-left: 30px;
+}
+.mother{
+    width: 300px;
+    height: 49px;
+    padding-left: 30px;
+}
+.mobile{
+    width: 300px;
+    height: 49px;
+    padding-left: 30px;
+}
+.email{
+    width: 300px;
+    height: 49px;
+    padding-left: 30px;
+}
+.age{
+    width: 300px;
+    height: 49px;
+    padding-left: 30px;
+}
+.gender{
+    width: 300px;
+    height: 49px;
+    padding-left: 30px;
+}
+.dob{
+    width: 300px;
+    height: 47px;
+    padding-left: 30px;
+}
+.qualification{
+    width: 300px;
+    height: 45px;
+    padding-left: 30px;
+}
+.skills{
+    width: 300px;
+    padding-left: 30px;
+}
+.submit{
+    width: 300px;
+    padding-left: 250px;
+    margin-top: 43px;
+}
+.photo{
+    width: 100px;
+    height: 80px;
+    float:right;
+    background:ghostwhite;
+    border: solid 1px;
+    text-align: center;
+    margin-right: 25px;
+    padding-top: 60px;
+}
+
+
+
+
+
+
+
+
+            
